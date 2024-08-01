@@ -16,17 +16,16 @@ Ce projet vise à fournir un outil permettant d'identifier les tendances sur le 
 ## Étapes du Projet
 
 1. **Recherche de Mots-Clés**
-   - Les mots-clés utilisés pour la recherche LinkedIn sont définis dans `linkedin_scraper.ipynb`.
+   - Les mots-clés utilisés pour la recherche LinkedIn sont définis dans [`linkedin_scraper.ipynb](https://github.com/henaornella/Challenge-Data-354/blob/main/linkedin_scraper.ipynb).
 
 2. **Script de Web Scraping**
    - Le script pour extraire les posts LinkedIn se trouve dans `linkedin_scraper.ipynb`.
 
 3. **Nettoyage et Stockage des Données**
-   - Les données nettoyées sont stockées dans `linkedin_posts_cleaned.csv`.
+   - Les données nettoyées sont stockées dans [`linkedin_posts_cleaned.csv`](https://github.com/henaornella/Challenge-Data-354/blob/main/linkedin_posts_cleaned.csv).
 
 4. **Tableau de Bord Power BI**
-   - Les visualisations et tableaux de bord sont créés dans `linkedIn_Analysis_Dashbord.pbix`.
-
+   - Les visualisations et tableaux de bord sont créés dans [`linkedIn_Analysis_Dashbord.pbix`](https://github.com/henaornella/Challenge-Data-354/blob/main/LinkedIn_Analysis_Dashbord.pbix).
 
 
 ## Utilisation
@@ -43,7 +42,9 @@ Ce projet vise à fournir un outil permettant d'identifier les tendances sur le 
 
 # Captures d'Écran du Tableau de Bord Power BI
 
-### Page 1 : [Vue d'ensemble de l'analyse](https://github.com/henaornella/Challenge-Data-354/blob/main/Captures%20d'ecran/page1.png)
+### Page 1 : Vue d'ensemble de l'analyse
+
+![Vue d'ensemble de l'analyse](https://github.com/henaornella/Challenge-Data-354/blob/main/Captures%20d'ecran/page1.png)
 
 - Top Mots Clés :
     - Description :
@@ -90,7 +91,9 @@ Ce projet vise à fournir un outil permettant d'identifier les tendances sur le 
        
 
 
-### Page 2 : [Analyse des Engagements](https://github.com/henaornella/Challenge-Data-354/blob/main/Captures%20d'ecran/page1.png)
+### Page 2 : Analyse des Engagements
+
+![Analyse des Engagements](https://github.com/henaornella/Challenge-Data-354/blob/main/Captures%20d'ecran/page2.png)
 
 - Total Réactions par Mot Clé
      - But : Visualiser le nombre total de likes reçus par chaque mot clé.
@@ -122,7 +125,9 @@ Ce projet vise à fournir un outil permettant d'identifier les tendances sur le 
 
 
 
-### Page 3 : [Détails du Contenu](https://github.com/henaornella/Challenge-Data-354/blob/main/Captures%20d'ecran/papier3.png)
+### Page 3 : Détails des Contenus
+
+![Détails des Contenus](https://github.com/henaornella/Challenge-Data-354/blob/main/Captures%20d'ecran/papier.png)
 
 - Nuage de Mots (Mots les Plus Fréquemment Utilisés dans les Posts)
      - But : Visualiser les mots les plus fréquemment utilisés dans le contenu des posts pour identifier les termes récurrents et les sujets dominants.
