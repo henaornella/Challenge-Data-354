@@ -44,7 +44,7 @@ Ce projet vise à fournir un outil permettant d'identifier les tendances sur le 
 # Captures d'Écran du Tableau de Bord Power BI
 
 ### Page 1 : Vue d'ensemble de l'analyse
-![Vue d'ensemble de l'analyse]([sC:\Users\HP\Desktop\Challenge Data354\Challenge-Data-354\Capture d'ecran Dashboard\page1.png](https://github.com/henaornella/Challenge-Data-354/blob/main/Captures%20d'ecran/page1.png))
+- [Vue d'ensemble de l'analyse]([https://github.com/henaornella/Data_Analysis-Portfolio#about](https://github.com/henaornella/Challenge-Data-354/blob/main/Captures%20d'ecran/page1.png))
 
          1.	Top des Mots Clés 
 Description :
@@ -88,7 +88,7 @@ Explication : Les filtres permettent de personnaliser les vues des graphiques en
 
 
 ### Page 2 : Analyse des Engagements
-[Analyse des Engagements]([C:\Users\HP\Desktop\Challenge Data354\Challenge-Data-354\Capture d'ecran Dashboard\page2.png](https://github.com/henaornella/Challenge-Data-354/blob/main/Captures%20d'ecran/page2.png))
+- [Analyse des Engagements]([https://github.com/henaornella/Data_Analysis-Portfolio#about](https://github.com/henaornella/Challenge-Data-354/blob/main/Captures%20d'ecran/page2.png))
 
        1. Total Réactions par Mot Clé
 •	But : Visualiser le nombre total de likes reçus par chaque mot clé.
@@ -118,7 +118,9 @@ Explication : Les filtres permettent de personnaliser les vues des graphiques en
 
 
 ### Page 3 : Détails du Contenu
-![Détails du Contenu]([C:\Users\HP\Desktop\Challenge Data354\Challenge-Data-354\Capture d'ecran Dashboard\page3.png](https://github.com/henaornella/Challenge-Data-354/blob/main/Captures%20d'ecran/papier3.png))   
+
+- [ Détails du Contenu]([https://github.com/henaornella/Data_Analysis-Portfolio#about](https://github.com/henaornella/Challenge-Data-354/blob/main/Captures%20d'ecran/papier3.png))
+   
 
      1.	Nuage de Mots (Mots les Plus Fréquemment Utilisés dans les Posts)
 •	But : Visualiser les mots les plus fréquemment utilisés dans le contenu des posts pour identifier les termes récurrents et les sujets dominants.
