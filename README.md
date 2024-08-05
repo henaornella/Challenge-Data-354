@@ -127,7 +127,7 @@ Ce projet vise à fournir un outil permettant d'identifier les tendances sur le 
 
 ### Page 3 : Détails des Contenus
 
-![Détails des Contenus]([https://github.com/henaornella/Challenge-Data-354/blob/main/Captures%20d'ecran/papier.png](https://github.com/henaornella/Challenge-Data-354/blob/main/Captures%20d'ecran/papier3.png))
+![Détails des Contenus]([https://github.com/henaornella/Challenge-Data-354/blob/main/Captures%20d'ecran/papier3.png])
 
 - Nuage de Mots (Mots les Plus Fréquemment Utilisés dans les Posts)
      - But : Visualiser les mots les plus fréquemment utilisés dans le contenu des posts pour identifier les termes récurrents et les sujets dominants.
